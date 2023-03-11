@@ -1,0 +1,12 @@
+﻿Events that should be recorded during playback by the Advanced Log:
+
+* Note On event, record:
+	- Channel index
+	- Source index
+	- Pitch
+	- Voice Volume
+	- Envelope Generator values
+* Any of the following changes while the note is active:
+	- Pitch
+	- Voice Volume
+	- Envelope Generator values
